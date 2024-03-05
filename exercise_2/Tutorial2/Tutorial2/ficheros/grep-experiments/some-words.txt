@@ -1,6 +1,0 @@
-hello
-hallo
-system
-operating
-ubuntu
-this
